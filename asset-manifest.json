@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CantexstApi/static/css/main.073c9b0a.css",
+    "main.js": "/CantexstApi/static/js/main.ccb71e4a.js",
+    "index.html": "/CantexstApi/index.html",
+    "main.073c9b0a.css.map": "/CantexstApi/static/css/main.073c9b0a.css.map",
+    "main.ccb71e4a.js.map": "/CantexstApi/static/js/main.ccb71e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccb71e4a.js"
+  ]
+}
